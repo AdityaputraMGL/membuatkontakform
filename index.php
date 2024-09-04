@@ -37,6 +37,7 @@
                 <option value="T3e"> T3E </option>
                 <option value="T3f"> T3F </option>
                 <option value="T3h"> T3G </option>
+                <option value="T3h"> T3H </option>
             </select></td>
         </tr>
 
