@@ -69,6 +69,8 @@
                 <option value="kristen"> Kristen </option>
                 <option value="hindu"> Hindu </option>
                 <option value="budha"> Budha </option>
+                <option value="konghucu"> Konghucu </option>
+                
             </select></td>
         </tr>
 
